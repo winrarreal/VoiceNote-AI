@@ -1,0 +1,8 @@
+{
+  "name": "Remix: VoiceNote AI",
+  "description": "A premium voice-first note-taking app with AI transcription, smart scheduling, multilingual support, and structured action item highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
